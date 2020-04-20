@@ -1,0 +1,5 @@
+16:22:11.049 [main] FATAL alpha.demo1 - FATAL
+16:31:49.475 [main] DEBUG alpha.demo1 - i am debugging
+16:31:49.479 [main] ERROR alpha.demo1 - i am error
+16:31:49.479 [main] INFO  alpha.demo1 - success
+16:31:49.480 [main] FATAL alpha.demo1 - FATAL

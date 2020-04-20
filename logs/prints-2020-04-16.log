@@ -1,0 +1,10 @@
+16:20:15.431 [main] DEBUG alpha.demo1 - i am debugging
+16:20:15.439 [main] ERROR alpha.demo1 - i am error
+16:20:15.439 [main] INFO  alpha.demo1 - success
+16:20:15.439 [main] FATAL alpha.demo1 - FATAL
+16:21:32.721 [main] DEBUG demo.log4jdemo - i am debugging
+16:21:32.724 [main] ERROR demo.log4jdemo - i am error
+16:21:32.724 [main] INFO  demo.log4jdemo - success
+16:21:32.724 [main] FATAL demo.log4jdemo - FATAL
+16:21:32.724 [main] DEBUG demo.log4jdemo - i am debug
+16:22:11.045 [main] ERROR alpha.demo1 - i am error
