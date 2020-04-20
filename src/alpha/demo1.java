@@ -16,7 +16,7 @@ public class demo1 {
 					log.error("i am error");
 					log.info("success");
 					log.fatal("FATAL");
-					
+					System.out.println("changes for git hub");
 	}
 
 }
